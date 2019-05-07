@@ -1,11 +1,9 @@
 # -*- mode:org; fill-column:79; -*-
 #+title:Responsive Website Development and Design Specialization
-#+subtitle:Create a Web Experience---Learn the fundamentals of full stack web development in five comprehensive courses@@html:<br>@@
-#+date:<2019-05-07 Tue 05:19>
-#+subtitle:{{{version(0.0.1)}}}
-#+subtitle:{{{pubdate}}}
-#+author:Coursera
-#+subauthor:Goldsmiths, University Of London
+#+subtitle:Learn the fundamentals of full stack web development in five comprehensive courses
+#+date:<2019-05-07 Tue 10:54>
+{{{version(0.0.2 {{{date(%F %R)}}})}}}
+#+author:Goldsmiths, University Of London
 #+subauthor:LOLH
 
 #+CINDEX:UX design
@@ -15,7 +13,10 @@
 #+CINDEX:data visualization
 #+CINDEX:animation
 
-{{{version(0.0.1)}}} {{{pubdate}}}
+#+texinfo:@insertcopying
+
+#+begin_export HTML
+<h2>Learn the fundamentals of full stack web development in five comprehensive courses</h2>
 
 This Specialization covers the basics of modern full stack web
 development, from UX design, to front-end coding, to custom
@@ -24,6 +25,7 @@ technologies, including HTML/CSS, Javascript, and MongoDB, and you’ll
 learn to implement a reactive, multi-user web application using the
 meteor.js framework. We’ll also touch on more advanced topics, such as
 APIs, data visualization, and animation.
+#+end_export
 
 * Specializations
 
@@ -37,7 +39,7 @@ complete just one course — you can pause your learning or end your
 subscription at any time. Visit your learner dashboard to track your
 course enrollments and your progress.
 
-{{{heading(Hands-on Project)}}}
+{{{heading(Hands-on Projects)}}}
 
 #+CINDEX:hands-on project
 Every Specialization includes a *hands-on project*. You'll need to
@@ -45,6 +47,8 @@ successfully finish the project(s) to complete the Specialization and
 earn your certificate. If the Specialization includes a separate
 course for the hands-on project, you'll need to finish each of the
 other courses before you can start it.
+
+{{{heading(Certificates)}}}
 
 #+CINDEX:certificates
 When you finish every course and complete the hands-on project, you'll
@@ -178,6 +182,28 @@ including peer interactions Participation in or completion of this
 online course will not confer academic credit for University of London
 programmes.
 
+* Copying
+:PROPERTIES:
+:copying: t
+:END:
+{{{title}}}
+
+\copy {{{date(%F)}}} {{{author}}}
+
+\copy {{{date(%F)}}} Outline by Pinecone062
+
+#+begin_export texinfo
+@heading Learn the fundamentals of full stack web development in five comprehensive courses
+
+This Specialization covers the basics of modern full stack web
+development, from UX design, to front-end coding, to custom
+databases. You’ll build foundational skills in a full range of
+technologies, including HTML/CSS, Javascript, and MongoDB, and you’ll
+learn to implement a reactive, multi-user web application using the
+meteor.js framework. We’ll also touch on more advanced topics, such as
+APIs, data visualization, and animation.
+#+end_export
+
 * Index
 :PROPERTIES:
 :index:    cp
@@ -201,9 +227,15 @@ programmes.
 #+INFOJS_OPT:
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
 #+LATEX_HEADER:
+** texinfo
+#+texinfo_filename:resp_website_dev-design_spec.info
+#+texinfo_class: info
+#+texinfo_header:
+#+texinfo_post_header:
+#+texinfo_dir_category:WebDev
+#+texinfo_dir_title:Responsive Website Dev
+#+texinfo_dir_desc:Create a web experience; learn the fundamentals of full stack web development
 ** macro definitions
 #+macro:version Version $1 $2
-#+macro:pubdate <2019-05-07 Tue 05:25>
-#+macro:heading @@texinfo:@heading $1@@
-#+macro:hsubheading @@html:<h4>$1</h4>@@
-#+macro:subheading @@texinfo:@heading $1@@
+#+macro:heading @@html:<h3>@@@@texinfo:@heading @@$1@@html:</h3>@@
+#+macro:subheading @@html:<h4>@@@@texinfo:@subheading @@$1@@html:</h4>@@
