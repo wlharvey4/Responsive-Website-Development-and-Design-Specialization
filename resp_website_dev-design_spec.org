@@ -1,0 +1,209 @@
+# -*- mode:org; fill-column:79; -*-
+#+title:Responsive Website Development and Design Specialization
+#+subtitle:Create a Web Experience---Learn the fundamentals of full stack web development in five comprehensive courses@@html:<br>@@
+#+date:<2019-05-07 Tue 05:19>
+#+subtitle:{{{version(0.0.1)}}}
+#+subtitle:{{{pubdate}}}
+#+author:Coursera
+#+subauthor:Goldsmiths, University Of London
+#+subauthor:LOLH
+
+#+CINDEX:UX design
+#+CINDEX:MongoDB
+#+CINDEX:reactive
+#+CINDEX:@code{meteor.js}
+#+CINDEX:data visualization
+#+CINDEX:animation
+
+{{{version(0.0.1)}}} {{{pubdate}}}
+
+This Specialization covers the basics of modern full stack web
+development, from UX design, to front-end coding, to custom
+databases. You’ll build foundational skills in a full range of
+technologies, including HTML/CSS, Javascript, and MongoDB, and you’ll
+learn to implement a reactive, multi-user web application using the
+meteor.js framework. We’ll also touch on more advanced topics, such as
+APIs, data visualization, and animation.
+
+* Specializations
+
+#+CINDEX:specialization
+A *Coursera Specialization* is a series of courses that helps you
+master a skill. To begin, enroll in the Specialization directly, or
+review its courses and choose the one you'd like to start with. When
+you subscribe to a course that is part of a Specialization, you’re
+automatically subscribed to the full Specialization. It’s okay to
+complete just one course — you can pause your learning or end your
+subscription at any time. Visit your learner dashboard to track your
+course enrollments and your progress.
+
+{{{heading(Hands-on Project)}}}
+
+#+CINDEX:hands-on project
+Every Specialization includes a *hands-on project*. You'll need to
+successfully finish the project(s) to complete the Specialization and
+earn your certificate. If the Specialization includes a separate
+course for the hands-on project, you'll need to finish each of the
+other courses before you can start it.
+
+#+CINDEX:certificates
+When you finish every course and complete the hands-on project, you'll
+earn a *Certificate* that you can share with prospective employers and
+your professional network.
+
+* Courses in this Specialization
+** Responsive Website Basics---Code with HTML, CSS, and JavaScript
+In this course you will learn three key website programming and design
+languages: HTML, CSS and JavaScript. You will create a web page using
+basic elements to control layout and style. Additionally, your web
+page will support interactivity. At the end of the course, you will be
+able to: 1. Define the purpose of HTML, CSS and JavaScript 2. Make a
+simple web page using HTML 3. Use CSS to control text styles and
+layout 4. Use CSS libraries such as Bootstrap to create responsive
+layouts 5. Use JavaScript variables and functions 6. Manipulate web
+page content using JavaScript 7. Respond to user input using
+JavaScript In this course, you will complete: 2 assignments writing
+HTML, CSS and JavaScript, each taking ~1 hour to complete 4 quizzes,
+each taking ~20 minutes to complete 1 programming exercise~30 minutes
+to complete multiple practice quizzes, each taking ~5 minutes to
+complete Participation in or completion of this online course will not
+confer academic credit for University of London programmes.
+
+** Responsive Web Design
+In this course you will learn how to apply concepts from interaction
+design and human computer interaction in order to design and build an
+interactive, professional looking website. You will learn how to make
+your web page designs adapt to different screen sizes using responsive
+grid layouts. You will learn how to add navigation and other design
+elements, and you will learn how to separate data and display using
+JavaScript objects and templates. At the end of the course, you will
+be able to: 1. Explain why users need to know where they are, where
+they can go and what is on a web page 2. Create wireframe mockups of
+web pages 3. Identify the key functional elements of web pages 4. Use
+Bootstrap components to realise page designs 5. Use JavaScript data
+structures such as arrays and objects to define the data used in a web
+page 6. Use the Handlebars template library to convert data to
+HTML 7. Add interactivity to templates using JavaScript event
+listeners In this course, you will complete: 1 website design
+assignment taking ~1 hour to complete 1 programming assignment taking
+~1 hour to complete 4 quizzes, each taking ~20 minutes to complete
+multiple practice quizzes, each taking ~5 minutes to complete
+Participation in or completion of this online course will not confer
+academic credit for University of London programmes.
+
+** Introduction to Meteor.js Development
+n this course, you will learn how to create a complete, multi-user web
+site using the Meteor.js framework and MongoDB. You will implement
+user authentication, security features, reactive templates and routing
+using iron router. You will carry out key database operations such as
+inserting, removing and updating data as well as sorting and
+filtering. You will see how a complete application can be built, line
+by line. At the end of the course, you will be able to: 1. Install the
+Meteor.js system and create a web application 2. Work with the
+Meteor.js packaging system 3. Write Meteor.js templates that can
+reactively display data 4. Use insert, remove and update operations on
+MongoDB 5. Write MongoDB data filters to search for and sort data 6
+.Add user authentication functionality to a website 7. Control what is
+displayed on the page using iron:router 8. Implement basic security
+features In this course, you will complete: 1 server install
+assignment taking ~1 hour to complete 1 programming assignment taking
+~8 hours to complete 4 quizzes, each taking ~20 minutes to complete
+multiple practice quizzes, each taking ~5 minutes to complete
+Prerequisites This course is designed to build on top of the material
+delivered in the previous two courses in this
+specialisation. Therefore, we recommend that if you find this course
+too technically challenging that you first complete the previous
+courses before re-commencing this one. Specifically, we expect you to
+be able to code basic HTML, CSS and Javascript before you take this
+course. Participation in or completion of this online course will not
+confer academic credit for University of London programmes.
+
+** Web Application Development with JavaScript and MongoDB
+In this course, you will develop more advanced web application
+programming skills. You will learn how to control data read and write
+access using methods, publish and subscribe. You will learn how to
+access your database and server shells using command line tools. You
+will use the SimpleSchema system to validate data and generate input
+forms automatically. You will see a complete collaborative code
+editing environment, TextCircle, being built from scratch. At the end
+of this course, you will be able to: - use Meteor methods to control
+data write access - use publish and subscribe to control data read
+access - install and use advanced Meteor packages - add user accounts
+to your applications - implement complex MongoDB filters - use the
+MongoDB and meteor server shells - define data validations schemas
+using SimpleSchema - generate data input forms automatically using
+SimpleSchema In this course, you will complete: 2 programming
+assignments taking ~4 hours each to complete 4 quizzes, each taking
+~20 minutes to complete multiple practice quizzes, each taking ~5
+minutes to complete Participation in or completion of this online
+course will not confer academic credit for University of London
+programmes
+
+** Responsive Website Tutorial and Examples
+In this course, we will show you exciting examples of collaborative,
+interactive web applications that use various types of media including
+sound, images and big data. We will show you how to build sites that
+provide precisely this functionality, using Meteor. We will also
+provide fully working example application code that you can use for
+your own commercial web projects. The course also provides a range of
+advice and suggestions about how to develop bespoke web applications
+which match the requirements of clients, where clients are people who
+commission the product or people who use the product. We will take you
+through the development of the following applications: 1. A portfolio
+website with collaborative blogging functionality. 2. An interactive,
+realtime, multi user music remixing system. 3. An interactive, online
+graffiti wall where users can collaborate to create graphics. 4. An
+interactive data visualisation platform for exploring and plotting big
+data in exciting ways. At the end of this course, you will be able to:
+• Implement animated data visualisations and graphics using advanced
+user interface libraries such as vis.js • Work with external data
+sources • Create multi user, realtime, collaborative environments •
+Use media APIs such as the Web Audio API Participation in or
+completion of this online course will not confer academic credit for
+University of London programmes.
+
+** Responsive Website Development and Design Capstone
+For your Responsive Website Development and Design Specialization
+Capstone Project, you will create a complete, responsive, multi-user,
+data-driven website which aims to solve a particular problem. We
+encourage you to create a website addressing a problem that you are
+interested in! However, if you don’t have an idea of your own, we have
+several that we will suggest in the course. In the capstone project,
+you will: 1. Develop a complete website using the full range of skills
+learned during the specialisation 2. Work through a structured process
+from idea generation to product delivery 3. Document and receive
+feedback on the development of your project from an idea to a fully
+functional piece of software in a series of structured assignments
+including peer interactions Participation in or completion of this
+online course will not confer academic credit for University of London
+programmes.
+
+* Index
+:PROPERTIES:
+:index:    cp
+:unnumbered: t
+:END:
+
+* export settings :noexport:
+** html
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:t tex:t H:6 ^:{}
+#+HTML_DOCTYPE: xhtml5
+#+HTML_CONTAINER: div
+#+DESCRIPTION:Create a Web Experience. Learn the fundamentals of full stack web development in five comprehensive courses.
+#+KEYWORDS:Meteor Html JavaScript MongoDB
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:
+#+HTML_HEAD_EXTRA:
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
+#+LATEX_HEADER:
+** macro definitions
+#+macro:version Version $1 $2
+#+macro:pubdate <2019-05-07 Tue 05:25>
+#+macro:heading @@texinfo:@heading $1@@
+#+macro:hsubheading @@html:<h4>$1</h4>@@
+#+macro:subheading @@texinfo:@heading $1@@
